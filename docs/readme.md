@@ -2,6 +2,8 @@
 
 Data available on google drive: [marta_data](https://drive.google.com/open?id=1a3J-7wPbHIy34TtpdGQqe3Ew0QnV-u_l)
 
+![Image](https://maps.googleapis.com/maps/api/staticmap?center=Atlanta,GA&zoom=11&size=300x300&maptype=roadmap&markers=color:blue&key=AIzaSyBmsxzLLQPlRnn8aM1RvCC-snIeYJneFoU)
+
 You can use the [editor on GitHub](https://github.com/amorrissette/amorrissette.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
