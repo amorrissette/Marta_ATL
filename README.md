@@ -11,3 +11,6 @@ Data is acquired using [MARTA Bus Realtime RESTful API](http://www.itsmarta.com/
 
 Coming soon...
 
+## Contribute
+
+Intersted in contributing to the project? Check out open [Issues](https://github.com/amorrissette/Marta_ATL/issues) or create an issue with your idea for expanding or improving the project. 
