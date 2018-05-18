@@ -1,4 +1,4 @@
-## Marta Atlanta Project 
+## MARTA SCIENCE :bus: :light_rail: :metro: :bar_chart: :microscope:
 Using Data and Advanced Analysis to Improve Atlanta's Public Transportation
 
 ## Project Data
