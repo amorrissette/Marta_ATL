@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+MAILTO=""
+
+* * * * * ~/miniconda3/bin/python ~/Desktop/marta_scraper3.py
+* * * * * ~/miniconda3/bin/python ~/Desktop/cta_scraper.py
